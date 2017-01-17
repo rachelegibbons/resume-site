@@ -1,0 +1,32 @@
+
+.additonalInfo {
+  width: 50%;
+  line-height: 120%;
+}
+
+.info {
+  line-height: 0%;
+}
+
+.experience {
+  color: gray;
+  width: 50%;
+}
+
+.location {
+  font-style: italic;
+}
+
+h1 {
+  font-family: sans-serif;
+}
+
+h2 {
+  font-family: sans-serif;
+  color: #E75536;
+}
+
+h3 {
+  font-family: sans-serif;
+  color: #E75536;
+}
